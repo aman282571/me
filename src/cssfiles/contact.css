@@ -1,0 +1,23 @@
+.contact {
+  margin: 50px;
+}
+.contact > div {
+  display: flex;
+  justify-content: center;
+  color: gray;
+}
+.contact > div > a {
+  margin: 0px 20px;
+  font-size: 2rem;
+  text-decoration: none;
+  color: gray;
+}
+.contact > div > a:hover,
+.contact > p:hover {
+  color: white;
+}
+.contact > p {
+  text-align: center;
+  color: gray;
+  font-size: 1rem;
+}
