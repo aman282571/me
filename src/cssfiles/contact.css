@@ -5,6 +5,7 @@
   display: flex;
   justify-content: center;
   color: gray;
+  line-height: 4rem;
 }
 .contact > div > a {
   margin: 0px 20px;
