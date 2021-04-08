@@ -1,11 +1,13 @@
 import React from "react";
 import "../cssfiles/About.css";
+import me from "./me.jpg";
 function About() {
   return (
     <div id="about">
       <div className="img">
-        <div></div>
+        <img src={me} />
       </div>
+
       <div className="about">
         <h1>Hi, I'm Aman </h1>
         <p className="content">
@@ -21,7 +23,7 @@ function About() {
           platforms.
           <p className="cv">
             <a
-              href="https://docs.google.com/document/d/1huhkdxVYHWzeJoy6htqTAdWwyLbPizQcTRMMcSR5Hr8/edit?usp=sharing"
+              href="https://drive.google.com/file/d/1RMW8ckZr0-IdMkZsbAOhTqu-BbxWWKdD/view?usp=sharing"
               target="_blank"
             >
               My CV

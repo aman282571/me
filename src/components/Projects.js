@@ -28,8 +28,8 @@ function Projects() {
             highlight the unread msgs). User can make room,follow and unfollow
             rooms.
             <p className="techstak">
-              <span>Tech Stack:-</span> HTML, CSS, JS, jquery, Nodejs,
-              Expressjs, Mongodb, and socket.io
+              <span>Tools:-</span> HTML, CSS, JS, jquery, Nodejs, Expressjs,
+              Mongodb, and socket.io
             </p>
             <a
               target="_blank"
@@ -46,7 +46,7 @@ function Projects() {
             can add, search,borrow(owner of the book will get mail),delete books
             from this. Individual webpages to show each book.
             <p className="techstak">
-              <span>Tech Stack:-</span>
+              <span>Tools:-</span>
               HTML, CSS, JS, Nodejs, Expressjs, Mongodb.
             </p>
             <a href="https://github.com/aman282571/library" target="_blank">
@@ -59,7 +59,7 @@ function Projects() {
           <div className="desc">
             A basic React application for tracking the expenses.
             <p className="techstak">
-              <span>Tech Stack:-</span>React
+              <span>Tools:-</span>React
             </p>
             <a
               href="https://aman282571.github.io/ExpenseTracker/"
@@ -72,9 +72,9 @@ function Projects() {
         <div className="project">
           <p className="heading">Old Portfolio</p>
           <div className="desc">
-            This is the my old portfolio.
+            My old portfolio.
             <p className="techstak">
-              <span>Tech Stack:-</span>
+              <span>Tools:-</span>
               HTML, CSS, JS.
             </p>
             <a href="https://github.com/aman282571/portfolio" target="_blank">
@@ -88,7 +88,7 @@ function Projects() {
           <div className="desc">
             Responsive website design.Just homepage is created by me
             <p className="techstak">
-              <span>Tech Stack:-</span> HTML, CSS.
+              <span>Tools:-</span> HTML, CSS.
             </p>
             <a href="https://aman282571.github.io/electura" target="_blank">
               go to website
@@ -100,7 +100,7 @@ function Projects() {
           <div className="desc">
             Landing Page
             <p className="techstak">
-              <span>Tech Stack:-</span> HTML, CSS.
+              <span>Tools:-</span> HTML, CSS.
             </p>
             <a href="https://aman282571.github.io/thomso/" target="_blank">
               go to website
@@ -109,7 +109,7 @@ function Projects() {
           <div className="desc">
             Template
             <p className="techstak">
-              <span>Tech Stack:-</span> HTML, CSS.
+              <span>Tools:-</span> HTML, CSS.
             </p>
             <a href="https://aman282571.github.io/template/" target="_blank">
               go to website
