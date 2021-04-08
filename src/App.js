@@ -8,6 +8,7 @@ import "./cssfiles/app.css";
 
 function App() {
   useEffect(() => {
+    $("nav a:first-child").css("color", "red");
     $("nav a").on("click", (e) => {
       $(e.target).css("color", "red");
       $(e.target).siblings().css("color", "gray");
