@@ -77,7 +77,7 @@ function Projects() {
               <span>Tools:-</span>
               HTML, CSS, JS.
             </p>
-            <a href="https://github.com/aman282571/portfolio" target="_blank">
+            <a href="https://aman282571.github.io/portfolio" target="_blank">
               go to website
             </a>
           </div>
