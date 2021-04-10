@@ -57,3 +57,11 @@ nav > a:hover::before {
     transition: all 0.3s;
   }
 }
+#particles {
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  z-index: -1;
+}
