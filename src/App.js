@@ -61,7 +61,9 @@ function App() {
               random: true,
               anim: {
                 enable: false,
+
                 speed: 15,
+
                 size_min: 0.1,
                 sync: false,
               },
@@ -93,6 +95,7 @@ function App() {
             events: {
               onhover: {
                 enable: true,
+
                 mode: "repulse",
               },
               onclick: {
@@ -110,6 +113,7 @@ function App() {
               },
               bubble: {
                 distance: 300,
+
                 size: 50,
                 duration: 2,
                 opacity: 0.8,
