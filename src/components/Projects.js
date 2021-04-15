@@ -20,6 +20,19 @@ function Projects() {
       <h1>Projects</h1>
       <div className="pro_container">
         <div className="project">
+          <p className="heading">Github Jobs</p>
+          <div className="desc">
+            All the jobs created by Github are shown here. Feature includes
+            pagination, search option by title,location,type of job .
+            <p className="techstak">
+              <span>Tools:-</span> React..
+            </p>
+            <a target="_blank" href="https://aman282571.github.io/Github_jobs/">
+              go to website
+            </a>
+          </div>
+        </div>
+        <div className="project">
           <p className="heading">Fan Club portal</p>
           <div className="desc">
             Portal includes authentication and Oauth, profile page(user can edit
@@ -29,7 +42,7 @@ function Projects() {
             rooms.
             <p className="techstak">
               <span>Tools:-</span> HTML, CSS, JS, jquery, Nodejs, Expressjs,
-              Mongodb, and socket.io
+              Mongodb, and socket.io..
             </p>
             <a
               target="_blank"
@@ -47,7 +60,7 @@ function Projects() {
             from this. Individual webpages to show each book.
             <p className="techstak">
               <span>Tools:-</span>
-              HTML, CSS, JS, Nodejs, Expressjs, Mongodb.
+              HTML, CSS, JS, Nodejs, Expressjs, Mongodb..
             </p>
             <a href="https://github.com/aman282571/library" target="_blank">
               go to website

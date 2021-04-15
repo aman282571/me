@@ -22,7 +22,7 @@ function App() {
         params={{
           particles: {
             number: {
-              value: 15,
+              value: 10,
               density: {
                 enable: true,
                 value_area: 800,
@@ -77,7 +77,7 @@ function App() {
             },
             move: {
               enable: true,
-              speed: 2,
+              speed: 1,
               direction: "top",
               random: false,
               straight: false,
@@ -112,19 +112,19 @@ function App() {
                 },
               },
               bubble: {
-                distance: 300,
+                distance: 400,
 
                 size: 50,
                 duration: 2,
                 opacity: 0.8,
-                speed: 10,
+                speed: 30,
               },
               repulse: {
-                distance: 200,
+                distance: 300,
                 duration: 0.1,
               },
               push: {
-                particles_nb: 5,
+                particles_nb: 3,
               },
               remove: {
                 particles_nb: 2,
