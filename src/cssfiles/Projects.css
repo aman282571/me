@@ -62,12 +62,12 @@
   display: block;
   text-decoration: none;
   color: rgb(247, 247, 255);
-
+  border-radius: 5px;
   padding: 5px;
   letter-spacing: 2px;
   text-align: center;
   font-size: 1rem;
-  margin: 5px;
+  margin: 10px 5px;
   background-color: rgb(78, 51, 78);
   transition: letter-spacing 400ms;
 }

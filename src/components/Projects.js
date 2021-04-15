@@ -27,6 +27,9 @@ function Projects() {
             <p className="techstak">
               <span>Tools:-</span> React..
             </p>
+            <a target="_blank" href="https://github.com/aman282571/Github_jobs">
+              go to github
+            </a>
             <a target="_blank" href="https://aman282571.github.io/Github_jobs/">
               go to website
             </a>
@@ -48,7 +51,10 @@ function Projects() {
               target="_blank"
               href="https://github.com/aman282571/fan_club_portal"
             >
-              go to website
+              go to github
+            </a>
+            <a target="_blank" href="https://fanportal.herokuapp.com/">
+              go to portal
             </a>
           </div>
         </div>
@@ -63,7 +69,7 @@ function Projects() {
               HTML, CSS, JS, Nodejs, Expressjs, Mongodb..
             </p>
             <a href="https://github.com/aman282571/library" target="_blank">
-              go to website
+              go to github
             </a>
           </div>
         </div>
