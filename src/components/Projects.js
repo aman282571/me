@@ -74,6 +74,26 @@ function Projects() {
           </div>
         </div>
         <div className="project">
+          <p className="heading">Basic Banking System</p>
+          <div className="desc">
+            Basic banking system which supports transaction between multiple
+            users.
+            <p className="techstak">
+              <span>Tools:-</span>
+              HTML, CSS, jquery, Nodejs, Expressjs, Mongodb..
+            </p>
+            <a
+              href="https://github.com/aman282571/bankingSystem"
+              target="_blank"
+            >
+              go to github
+            </a>
+            <a href="https://basicbanksys.herokuapp.com/" target="_blank">
+              go to website
+            </a>
+          </div>
+        </div>
+        <div className="project">
           <p className="heading">Expense Tracker</p>
           <div className="desc">
             A basic React application for tracking the expenses.
