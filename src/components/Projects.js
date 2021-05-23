@@ -54,9 +54,6 @@ function Projects() {
             >
               go to github
             </a>
-            <a target="_blank" href="https://fanportal.herokuapp.com/">
-              go to portal
-            </a>
           </div>
         </div>
         <div className="project">
