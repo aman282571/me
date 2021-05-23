@@ -23,7 +23,7 @@ function About() {
           platforms.
           <p className="cv">
             <a
-              href="https://drive.google.com/file/d/1RMW8ckZr0-IdMkZsbAOhTqu-BbxWWKdD/view?usp=sharing"
+              href="https://drive.google.com/file/d/12IS1UO73cp8xTbbrDx3-JICDGnd22thz/view?usp=sharing"
               target="_blank"
             >
               My CV

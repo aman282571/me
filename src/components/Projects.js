@@ -10,7 +10,6 @@ function Projects() {
       $(".heading").toggleClass("heading1");
     }
     $(".heading").on("click", (e) => {
-      console.log(e.target);
       $(e.target).toggleClass("heading1");
       $(e.target).siblings(".desc").slideToggle();
     });
@@ -23,7 +22,9 @@ function Projects() {
           <p className="heading">Github Jobs</p>
           <div className="desc">
             All the jobs created by Github are shown here. Feature includes
-            pagination, search option by title,location,type of job .
+            pagination, search option by title,location,type of job . Due to
+            CORS issue this website is not working on github but can be seen
+            locally on PC.
             <p className="techstak">
               <span>Tools:-</span> React..
             </p>
