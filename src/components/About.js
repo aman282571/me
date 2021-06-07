@@ -5,7 +5,8 @@ function About() {
   return (
     <div id="about">
       <div className="img">
-        <img src={me} />
+        {" "}
+        <div className="image" style={{ backgroundImage: `url(${me})` }}></div>
       </div>
 
       <div className="about">
