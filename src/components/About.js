@@ -14,11 +14,19 @@ function About() {
         <p className="content">
           I am a sophomore at IIT Roorkee. Intersted in building full stack
           projects with MERN stack. Apart from development, I also do CP on{" "}
-          <a href="https://leetcode.com/aman282571/" target="_blank">
+          <a
+            href="https://leetcode.com/aman282571/"
+            target="_blank"
+            rel="noreferrer"
+          >
             Leetcode
           </a>{" "}
           and{" "}
-          <a href="https://www.codechef.com/users/aman282571" target="_blank">
+          <a
+            href="https://www.codechef.com/users/aman282571"
+            target="_blank"
+            rel="noreferrer"
+          >
             Codechef
           </a>{" "}
           platforms.
@@ -26,6 +34,7 @@ function About() {
             <a
               href="https://drive.google.com/file/d/12IS1UO73cp8xTbbrDx3-JICDGnd22thz/view?usp=sharing"
               target="_blank"
+              rel="noreferrer"
             >
               My CV
             </a>

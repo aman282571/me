@@ -5,21 +5,31 @@ function Contact() {
   return (
     <div className="contact">
       <div>
-        <a href="https://github.com/aman282571" target="_blank">
+        <a
+          href="https://github.com/aman282571"
+          target="_blank"
+          rel="noreferrer"
+        >
           <FaGithub />
         </a>
         <a
           href="https://www.linkedin.com/in/aman-thakur-8b214a197/"
           target="_blank"
+          rel="noreferrer"
         >
           <FaLinkedin />
         </a>
-        <a href="https://twitter.com/AmanTha42592602" target="_blank">
+        <a
+          href="https://twitter.com/AmanTha42592602"
+          target="_blank"
+          rel="noreferrer"
+        >
           <FaTwitter />
         </a>
         <a
           href="https://www.facebook.com/profile.php?id=100025145840801"
           target="_blank"
+          rel="noreferrer"
         >
           <FaFacebook />
         </a>

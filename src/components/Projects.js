@@ -18,9 +18,9 @@ function Projects() {
     <div id="projects">
       <h1>Projects</h1>
       <div className="pro_container">
-        <div className="project">
+        {/*<div className="project">
           <p className="heading">Github Jobs</p>
-          <div className="desc">
+           <div className="desc">
             All the jobs created by Github are shown here. Feature includes
             pagination, search option by title,location,type of job . Due to
             CORS issue this website is not working on github but can be seen
@@ -28,14 +28,14 @@ function Projects() {
             <p className="techstak">
               <span>Tools:-</span> React..
             </p>
-            <a target="_blank" href="https://github.com/aman282571/Github_jobs">
+            <a target="_blank" rel="noreferrer" href="https://github.com/aman282571/Github_jobs">
               go to github
             </a>
-            <a target="_blank" href="https://aman282571.github.io/Github_jobs/">
-              go to website
+            <a target="_blank" rel="noreferrer" href="https://aman282571.github.io/Github_jobs/">
+             Open Website
             </a>
-          </div>
-        </div>
+          </div> 
+        </div>*/}
         <div className="project">
           <p className="heading">Fan Club portal</p>
           <div className="desc">
@@ -50,9 +50,28 @@ function Projects() {
             </p>
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://github.com/aman282571/fan_club_portal"
             >
               go to github
+            </a>
+          </div>
+        </div>
+        <div className="project">
+          <p className="heading">Sudoku Solver</p>
+          <div className="desc">
+            This sudoku solver takes the input from the user and validate the
+            sudoku and if any error found then it highlights those errors
+            otherwise shows all posible solution of that sudoku.
+            <p className="techstak">
+              <span>Tools:-</span> React..
+            </p>
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://aman282571.github.io/sudoku"
+            >
+              Open website
             </a>
           </div>
         </div>
@@ -66,7 +85,11 @@ function Projects() {
               <span>Tools:-</span>
               HTML, CSS, JS, Nodejs, Expressjs, Mongodb..
             </p>
-            <a href="https://github.com/aman282571/library" target="_blank">
+            <a
+              href="https://github.com/aman282571/library"
+              target="_blank"
+              rel="noreferrer"
+            >
               go to github
             </a>
           </div>
@@ -83,11 +106,16 @@ function Projects() {
             <a
               href="https://github.com/aman282571/bankingSystem"
               target="_blank"
+              rel="noreferrer"
             >
               go to github
             </a>
-            <a href="https://basicbanksys.herokuapp.com/" target="_blank">
-              go to website
+            <a
+              href="https://basicbanksys.herokuapp.com/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Open Website
             </a>
           </div>
         </div>
@@ -101,8 +129,9 @@ function Projects() {
             <a
               href="https://aman282571.github.io/ExpenseTracker/"
               target="_blank"
+              rel="noreferrer"
             >
-              go to website
+              Open Website
             </a>
           </div>
         </div>
@@ -114,8 +143,12 @@ function Projects() {
               <span>Tools:-</span>
               HTML, CSS, JS.
             </p>
-            <a href="https://aman282571.github.io/portfolio" target="_blank">
-              go to website
+            <a
+              href="https://aman282571.github.io/portfolio"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Open Website
             </a>
           </div>
         </div>
@@ -127,29 +160,12 @@ function Projects() {
             <p className="techstak">
               <span>Tools:-</span> HTML, CSS.
             </p>
-            <a href="https://aman282571.github.io/electura" target="_blank">
-              go to website
-            </a>
-          </div>
-        </div>
-        <div className="project">
-          <p className="heading">Learning projects</p>
-          <div className="desc">
-            Landing Page
-            <p className="techstak">
-              <span>Tools:-</span> HTML, CSS.
-            </p>
-            <a href="https://aman282571.github.io/thomso/" target="_blank">
-              go to website
-            </a>
-          </div>
-          <div className="desc">
-            Template
-            <p className="techstak">
-              <span>Tools:-</span> HTML, CSS.
-            </p>
-            <a href="https://aman282571.github.io/template/" target="_blank">
-              go to website
+            <a
+              href="https://aman282571.github.io/electura"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Open Website
             </a>
           </div>
         </div>
