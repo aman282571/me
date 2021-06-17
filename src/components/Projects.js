@@ -62,7 +62,7 @@ function Projects() {
           <div className="desc">
             This sudoku solver takes the input from the user and validate the
             sudoku and if any error found then it highlights those errors
-            otherwise shows all posible solution of that sudoku.
+            otherwise shows all possible solution of that sudoku.
             <p className="techstak">
               <span>Tools:-</span> React..
             </p>
