@@ -58,6 +58,24 @@ function Projects() {
           </div>
         </div>
         <div className="project">
+          <p className="heading">Codeforces Problems</p>
+          <div className="desc">
+            User can view all problems of codeforces. <br /> Fetaure includes
+            pagination and filter by tags, status(Todo,tried solved),
+            name,increasing and decreasing order of rating and solved count.
+            <p className="techstak">
+              <span>Tools:-</span> React..
+            </p>
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://aman282571.github.io/cf_problems/"
+            >
+              Open website
+            </a>
+          </div>
+        </div>
+        <div className="project">
           <p className="heading">Sudoku Solver</p>
           <div className="desc">
             This sudoku solver takes the input from the user and validate the
