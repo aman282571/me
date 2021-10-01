@@ -18,24 +18,23 @@ function Projects() {
     <div id="projects">
       <h1>Projects</h1>
       <div className="pro_container">
-        {/*<div className="project">
-          <p className="heading">Github Jobs</p>
-           <div className="desc">
-            All the jobs created by Github are shown here. Feature includes
-            pagination, search option by title,location,type of job . Due to
-            CORS issue this website is not working on github but can be seen
-            locally on PC.
+        <div className="project">
+          <p className="heading">Blogs App</p>
+          <div className="desc">
+            Blogs app where user can create,edit and delete the blogs and their
+            profile. User can also see others profiles and blogs.
             <p className="techstak">
-              <span>Tools:-</span> React..
+              <span>Tools:-</span> React and Express.js..
             </p>
-            <a target="_blank" rel="noreferrer" href="https://github.com/aman282571/Github_jobs">
-              go to github
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://blogsapp28.herokuapp.com/"
+            >
+              Open Website
             </a>
-            <a target="_blank" rel="noreferrer" href="https://aman282571.github.io/Github_jobs/">
-             Open Website
-            </a>
-          </div> 
-        </div>*/}
+          </div>
+        </div>
         <div className="project">
           <p className="heading">Fan Club portal</p>
           <div className="desc">
