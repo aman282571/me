@@ -30,7 +30,7 @@ function About() {
             Codechef
           </a>{" "}
           platforms.
-          <p className="cv">
+          {/* <p className="cv">
             <a
               href="https://drive.google.com/file/d/12IS1UO73cp8xTbbrDx3-JICDGnd22thz/view?usp=sharing"
               target="_blank"
@@ -38,7 +38,7 @@ function About() {
             >
               My CV
             </a>
-          </p>
+          </p> */}
         </p>
       </div>
     </div>
